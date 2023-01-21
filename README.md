@@ -26,7 +26,7 @@ The following layers contribute the architecture of the CNN model:
 * Keras – To build classification model.
 * Pygame – To play alarm sound.
 
-### ✅ Project Staage 
+### ✅ Project Stage 
 
 ![drowsiness](https://user-images.githubusercontent.com/84402100/213844309-21b216b8-fc45-4b85-9a2c-e9c2fa9106ee.jpg)
 
