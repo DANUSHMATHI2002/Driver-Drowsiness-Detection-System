@@ -26,6 +26,10 @@ The following layers contribute the architecture of the CNN model:
 * Keras – To build our classification model.
 * Pygame – To play alarm sound.
 
+### ✅ Project Outcome
+
+I have created a sleepy driver alarm system in this Python project which you may use in a variety of ways. A CNN model was used to forecast the state after utilising OpenCV to recognise faces and eyes using a haar cascade classifier.
+
 
 
 
