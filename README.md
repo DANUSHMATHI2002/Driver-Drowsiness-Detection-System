@@ -23,12 +23,16 @@ The following layers contribute the architecture of the CNN model:
 
 * OpenCV – Face and eye detection.
 * TensorFlow – Keras uses TensorFlow as backend.
-* Keras – To build our classification model.
+* Keras – To build classification model.
 * Pygame – To play alarm sound.
+
+### ✅ Dependencies 
+
+![drowsiness](https://user-images.githubusercontent.com/84402100/213844309-21b216b8-fc45-4b85-9a2c-e9c2fa9106ee.jpg)
 
 ### ✅ Project Outcome
 
-I have created a sleepy driver alarm system in this Python project which you may use in a variety of ways. A CNN model was used to forecast the state after utilising OpenCV to recognise faces and eyes using a haar cascade classifier.
+In this Python project I have created a sleepy driver alarm system which you may use in a variety of ways. A CNN model was used to forecast the state after utilising OpenCV to recognise faces and eyes using a haar cascade classifier.
 
 
 
